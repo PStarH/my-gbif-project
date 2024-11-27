@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/router/index.ts","./src/services/gbifservice.ts","./src/types/backend.ts","./src/types/gbif.d.ts","./src/app.vue","./src/components/about.vue","./src/components/community.vue","./src/components/database.vue","./src/components/homepage.vue","./src/components/speciesdetail.vue"],"version":"5.6.2"}
