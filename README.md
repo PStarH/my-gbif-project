@@ -1,6 +1,10 @@
-# GBIF Forum
+# Vue 3 + TypeScript + Vite
 
 This project is a template to help you get started with developing applications using Vue 3 and TypeScript in Vite. It leverages Vue 3's `<script setup>` Single File Components (SFCs) for a more streamlined and efficient development experience. For more information, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup).
+
+## Demo
+
+Check out the live demo of the project [here](https://my-gbif-project.vercel.app/).
 
 ## Project Setup
 
