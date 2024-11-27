@@ -58,7 +58,3 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 - [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup)
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-
-## Contact
-
-For any questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
